@@ -1,0 +1,168 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #c1c2c4;
+  border-width: 10px;
+  width: 5%;
+}
+
+.halloDescription {
+  margin: 50px auto 100px auto;
+  line-height: 2;
+  width: 50%;
+}
+
+.skills {
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+  width: 50%
+}
+
+.skill1 {
+  padding-top: 50px;
+}
+
+.skills2 {
+  padding-top: 100px;
+}
+
+.skills3 {
+  padding-top: 100px;
+}
+
+.skills4 {
+  padding-top: 100px;
+}
+
+.contactMe{
+  padding-top: 50px;
+}
+
+.mountainImage {
+  height: 450px;
+}
+
+.circular {
+  border-radius: 75%;
+}
+
+.profileImage {
+  height: 350px;
+}
+
+.topContainer {
+  background-color: #dff6f0;
+  padding-top: 7.5%;
+  border-style: none;
+}
+
+.middleContainer {
+  padding-top: 50px;
+}
+
+.bottomContainer {
+  margin: 0;
+  margin-top: 50px;
+  padding-top: 25px;
+  background-color: #66BFBF;
+  color: #bbe1fa;
+}
+
+.cloudTop {
+  position: absolute;
+  right: 450px;
+  top: 120px;
+}
+
+.cloudBottom {
+  position: absolute;
+  right: 1300px;
+  top: 550px;
+}
+
+.financeImage {
+  width: 25%;
+  float: left;
+  margin-top: 15px;
+  margin-right: 40px;
+}
+
+.financeInsuranceImage {
+  width: 25%;
+  float: right;
+  margin-top: 15px;
+  margin-left: 40px;
+}
+
+.webdesignImage {
+  width: 25%;
+  float: left;
+  margin-top: 25px;
+  margin-right: 40px;
+}
+
+.chilliesImage {
+  width: 22.5%;
+  float: right;
+  margin-top: 25px;
+  margin-left: 40px;
+}
+
+.copyright{
+  margin: 0;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  color: white;
+}
+
+.myButton {
+  margin-top: 25px;
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #79d4c8 5%, #82ccc6 100%);
+	background-color:#79d4c8;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #82ccc6 5%, #79d4c8 100%);
+	background-color:#82ccc6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
