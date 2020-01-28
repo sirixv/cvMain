@@ -57,8 +57,27 @@ hr {
   padding-top: 100px;
 }
 
+.itIcon{
+  width: 1.25rem;
+  padding-right: 10px;
+}
+
+.skill3Table{
+  table-layout: fixed;
+  width: 70%;
+}
+
 .skills4 {
   padding-top: 100px;
+}
+
+.skill5{
+  padding-top: 100px;
+}
+
+.flagIcon{
+  width: 1.5rem;
+  padding-right: 10px;
 }
 
 .contactMe{
@@ -97,8 +116,9 @@ hr {
 
 .cloudTop {
   position: absolute;
-  right: 450px;
-  top: 120px;
+  width: 8%;
+  right: 25%;
+  top: 7.5%;
 }
 
 .cloudBottom {
@@ -133,6 +153,13 @@ hr {
   float: right;
   margin-top: 25px;
   margin-left: 40px;
+}
+
+.globalImage{
+  width: 25%;
+  float: left;
+  margin-top: 25px;
+  margin-right: 40px;
 }
 
 .copyright{
